@@ -1,3 +1,5 @@
 # Restaurant-Management-System
 
-![esres](https://user-images.githubusercontent.com/47782249/82413631-5549ee80-9a93-11ea-83d8-d689975d426f.JPG)
+<img src="https://github.com/bhargav-joshi/Restaurant-Management-System/blob/master/Documentation/snap.JPG" width="350px" align="center">
+
+ *** This is Management system of Restaurant In which we can do normal operations like calculating total with GST and some rest functions***
